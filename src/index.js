@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {onChange} from 'react';
 import ReactDOM from 'react-dom';
 
 import Keypad from './components/Keypad';
